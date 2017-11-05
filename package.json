@@ -1,0 +1,15 @@
+{
+  "name": "open-poi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jakob Hohlfeld <jhohlfeld@polyban.io>",
+  "license": "ISC",
+  "dependencies": {
+    "neo4j-driver": "^1.5.0"
+  }
+}
