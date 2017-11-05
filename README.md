@@ -2,7 +2,7 @@
 
 OpenAttraction is an tourist attraction open API and database.
 
-Read the docs here: [http://openattraction.org][http://openattraction.org]
+Read the docs here: http://openattraction.org
 
 ----
 
